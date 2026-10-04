@@ -32,4 +32,4 @@ This repository presents an end-to-end SQL data analysis of **Olist**, the large
 * `02_business_analytics.sql` — Production-grade analytical queries categorized by business domains.
 
 ---
-*Created by [Your Name] | Data Analyst Candidate*
+*Created by [Chintan Ganatra] | Data Analyst Candidate*
